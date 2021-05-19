@@ -1,14 +1,14 @@
 # serverless-webpack-express-starter
-
+serverless-webpack-express-starter 模板是基于express-starter基础webpack打包功能的例子，
+主要解决腾讯云serverless需要上传node_modules，但是占用空间过大的问题。
 
 ## 预览
 [点击](http://service-ngv6f3yg-1253419200.gz.apigw.tencentcs.com/release/user
 )
 
-## 简介
+## 效果
+**70 M => 1.3 M**
 
-serverless-webpack-express-starter 模板是基于express-starter基础webpack打包功能的例子，
-主要解决腾讯云serverless需要上传node_modules，但是占用空间过大的问题。
 
 ## 我的情况
 在不打包的情况下，需要上传近70M，时间需要几分钟，经过打包之后，只占用1.3M，10秒钟就传上去了
