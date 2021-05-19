@@ -41,4 +41,4 @@ npm run deploy
 ```
 
 ## 开发时遇到的坑
-
+[serverless+webpack解决node_modules空间大的问题](https://xlzy520.cn/pages/ebc11a/)
