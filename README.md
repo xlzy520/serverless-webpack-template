@@ -35,6 +35,7 @@ npm run start
 ```
 
 ### 3. 构建并部署
+`serverless.yml`将`src`指向`dist`
 
 ```bash
 npm run deploy
