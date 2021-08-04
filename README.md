@@ -3,7 +3,7 @@ serverless-webpack-express-starter 模板是基于express-starter基础webpack�
 主要解决腾讯云serverless需要上传node_modules，但是占用空间过大的问题。
 
 ## 预览
-[点击](http://service-ngv6f3yg-1253419200.gz.apigw.tencentcs.com/release/test
+[点击](https://service-ijd4slqi-1253419200.gz.apigw.tencentcs.com/release/test
 )
 
 ## 效果
